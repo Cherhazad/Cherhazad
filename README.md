@@ -2,7 +2,7 @@
 <p align="center">
 J'ai été en alternance en tant que développeuse web full-stack du 18/06/2024 au 21/11/25 sur Montpellier ! :)
 </p>
-<p>Nest.js pour le back-end et Vue.js pour le front</p>
+<p align="center">Nest.js pour le back-end et Vue.js pour le front</p>
 
 <h3 align="center">Langages et outils :</h3>
 <p align="center"> 
